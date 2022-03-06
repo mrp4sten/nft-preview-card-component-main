@@ -57,7 +57,8 @@ section {
     position: absolute;
     opacity: 0;
     cursor: pointer;
-    transform: translate(0px, -100%) rotate(180deg);
+    transform: translateY(-16.2em);
+    margin: 0;
 }
 
 .card_overlay:hover {
